@@ -3,6 +3,7 @@ Repository for "Interpretable Structural Analysis for Evolutionary Generative De
 
 In the paper, the sensitivity-based approach implemented in [GEFEST](https://github.com/aimclub/GEFEST) framework was applied to improve optimization process of structures of breakwaters.
 
+ - *exp_process.py* file consists code launched for experiments
  - *exp_archives* folder contains archives of experiment results such [quality metric, structures, time] history
  - *exp_results.ipynb*  jupyter-notebook consists analysis and visualization code
  - *swan_config* file contains the SWAN configuration applied during experiments
